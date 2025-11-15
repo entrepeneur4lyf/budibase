@@ -96,7 +96,7 @@
     "isolated-vm": "^4.7.2",
     "jimp": "1.1.4",
     "joi": "17.6.0",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "jsonschema": "1.4.0",
     "jsonwebtoken": "9.0.2",
     "knex": "2.4.2",
