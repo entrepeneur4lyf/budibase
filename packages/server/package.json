@@ -106,7 +106,7 @@
     "koa-send": "5.0.1",
     "koa-useragent": "^4.1.0",
     "koa2-ratelimit": "1.1.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "memorystream": "0.3.1",
     "mongodb": "6.7.0",
     "mssql": "11.0.1",
